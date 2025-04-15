@@ -1,7 +1,6 @@
 # XGBoost
 Competition URL:
 https://www.kaggle.com/competitions/coms-4771-fall-2024-regression-competition/overview 
-Here's a clean and concise **README summary** for your GitHub project based on the provided script:
 
 ---
 
@@ -86,4 +85,3 @@ pip install feature-engine xgboost seaborn prophet scikit-optimize
 
 ---
 
-Let me know if you'd like this README formatted as an actual `.md` file or pushed into a GitHub-style template!
